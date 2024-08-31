@@ -136,5 +136,5 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Bakare Mayowa** - [Bakare](https://github.com/bamide)
 
